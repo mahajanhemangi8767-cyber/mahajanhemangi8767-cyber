@@ -1,3 +1,19 @@
+<h1 align="center">Hi 👋, I'm Hemangi Mahajan</h1>
+
+<h3 align="center">
+Final Year B.Tech Information Technology Student
+</h3>
+
+<p align="center">
+K.K. Wagh Institute of Engineering Education and Research, Nashik
+</p>
+
+<p align="center">
+<strong>Aspiring Software Developer | Cloud & DevOps Enthusiast</strong>
+</p>
+
+---
+
 ### About Me
 
 - 🔭 Currently building **[Smart AI Refrigerator Management System](https://github.com/mahajanhemangi8767-cyber/Smart-AI-refrigerator-management-system-)**
@@ -59,7 +75,6 @@
 <br>
 
 ### GitHub Status
-
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=mahajanhemangi8767-cyber&theme=tokyonight&hide_border=true" />
