@@ -27,26 +27,31 @@
 ### Tech Stack
 
 **Languages**
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
 **Web & Backend**
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs,express" />
 </p>
 
 **Databases**
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 **Cloud & DevOps**
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,linux,git" />
 </p>
 
 **Tools**
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=figma,postman,firebase,vscode" />
 </p>
