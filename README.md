@@ -35,10 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahajanhemangi8767-cyber&show_icons=true&locale=en" alt="mahajanhemangi8767-cyber" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahajanhemangi8767-cyber&" alt="mahajanhemangi8767-cyber" /></p>
-src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahajanhemangi8767-cyber&show_icons=true&locale=en&layout=compact" alt="mahajanhemangi8767-cyber" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahajanhemangi8767-cyber&show_icons=true&locale=en" alt="mahajanhemangi8767-cyber" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahajanhemangi8767-cyber&" alt="mahajanhemangi8767-cyber" /></p>
