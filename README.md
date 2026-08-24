@@ -1,6 +1,13 @@
 # Hi, I'm Hemangi Mahajan 👋
 
-## 🚀 About Me
+### 🎓 Final Year B.Tech Information Technology Student
+**K. K. Wagh Institute of Engineering Education & Research, Nashik**
+
+**Aspiring Software Developer | Cloud & DevOps Enthusiast**
+
+---
+
+### 🚀 About Me
 
 Final Year **B.Tech Information Technology student** passionate about **Software Development, Cloud Computing, DevOps, Artificial Intelligence, and IoT**. I enjoy building practical, real-world applications and solving technical problems through **DSA, full-stack development, cloud technologies, and automation**.
 
@@ -8,156 +15,131 @@ Currently focused on strengthening my expertise in **AWS, Docker, Kubernetes, CI
 
 ---
 
-## 📖 What You'll Find in My Repositories
+### 📖 What You'll Find in My Repositories
 
-* Full-Stack Web Applications
-* AI & Machine Learning Projects
-* Cloud Computing Projects
-* DevOps & CI/CD Projects
-* IoT-Based Solutions
-* DSA & Problem-Solving Practice
-* SQL & Database Projects
-* Academic & Final-Year Projects
-* Automation & Development Experiments
-* Hackathon Projects
+- Full-Stack Web Applications
+- AI & Machine Learning Projects
+- Cloud Computing Projects
+- DevOps & CI/CD Projects
+- IoT-Based Solutions
+- DSA & Problem-Solving Practice
+- SQL & Database Projects
+- Academic & Final-Year Projects
+- Automation & Development Experiments
+- Hackathon Projects
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
-### Programming Languages
+#### 💻 Programming Languages
 
-* C
-* C++
-* Python
-* JavaScript
-* SQL
-* Bash / Shell Scripting
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,bash" />
 
+#### 🌐 Frontend
 
-\
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 
-### Frontend
+#### ⚙️ Backend
 
-* HTML
-* CSS
-* React.js
-* Tailwind CSS
-  
-\
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 
-### Backend
+#### 🗄️ Databases
 
-* Node.js
-* Express.js
-* Flask
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 
-\
+#### ☁️ Cloud & DevOps
 
-### Databases
-
-* MySQL
-* MongoDB
-* Firebase
-
-\
-
-### ☁️ DevOps & Cloud
-
-* Docker
-* Kubernetes
-* Jenkins
-* CI/CD
-* Linux
-* Ubuntu
-* Git
-* GitHub
-
-\
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git" />
 
 **AWS:** EC2 · S3 · IAM · VPC · Lambda · DynamoDB · Cognito
 
-**DevOps:** CI/CD · Containerization · Linux · Bash/Shell Scripting
+**DevOps:** CI/CD · Docker · Kubernetes · Jenkins · Linux · Bash/Shell Scripting
 
-\
+#### 🤖 AI & Machine Learning
 
-### 🔌 IoT & Hardware
+<img src="https://skillicons.dev/icons?i=python" />
 
-**Hardware:** Arduino Uno · Raspberry Pi · ESP32 · IoT Sensors
+**AI/ML:** Scikit-learn · Pandas · MBART · Hugging Face · NLTK · spaCy · Dialogflow · Rasa
 
-### 🔧 Development Tools
+#### 🔌 IoT & Hardware
 
-* VS Code
-* Jupyter Notebook
-* Anaconda
-* Postman
-* Figma
-* Jira
-* Tableau
+**Arduino Uno · Raspberry Pi · ESP32 · IoT Sensors**
 
-\
+#### 🔧 Development Tools
 
-**Other:** Ubuntu · Anaconda · Google App Engine · Tableau
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+**Other:** Ubuntu · Anaconda · Jupyter Notebook · Google App Engine · Tableau · Jira
 
 ---
 
-## 🎯 Currently Learning
+### 🎯 Currently Learning
 
-* ☁️ Cloud Computing & AWS
-* 🐳 Docker & Containerization
-* ☸️ Kubernetes
-* ⚙️ CI/CD & DevOps
-* 🐧 Linux & Shell Scripting
-* 🧩 Advanced DSA
-* 🏗️ System Design
-* 🚀 Scalable Application Development
-
----
-
-## 💡 Featured Projects
-
-### 🧊 Smart AI Refrigerator Management System
-
-An intelligent system focused on **smart refrigerator inventory management, food monitoring, and reducing food waste** through AI-powered automation.
-
-### 🤝 Donation Connect
-
-A platform combining **AI chatbot assistance and live location-based donation tracking** to help connect donors with people in need.
-
-### 🚧 NIYANTRAK — Smart Barricade System
-
-An IoT-based solution developed for **Smart India Hackathon**, using **Arduino, Raspberry Pi, and IoT sensors** for smart barricade management.
-
-### 👁️ Smart Vision Stick
-
-An AI-based navigation solution designed to assist visually impaired individuals using **Arduino and intelligent sensing technologies**.
+☁️ **Cloud Computing & AWS**  
+🐳 **Docker & Containerization**  
+☸️ **Kubernetes**  
+⚙️ **CI/CD & DevOps**  
+🐧 **Linux & Shell Scripting**  
+🧩 **Advanced DSA**  
+🏗️ **System Design**  
+🚀 **Scalable Application Development**
 
 ---
 
-## 🎓 Education
+### 💡 Featured Projects
 
-**B.Tech — Information Technology**
-K. K. Wagh Institute of Engineering Education & Research, Nashik
-**Final Year**
+**🧊 Smart AI Refrigerator Management System**  
+An intelligent system focused on smart refrigerator inventory management, food monitoring, and reducing food waste through AI-powered automation.
+
+**🌐 GenAI Translator Web App**  
+AI-powered multilingual translation application built using **React.js, Tailwind CSS, and MBART**.
+
+**🤝 Donation Connect**  
+A platform combining **AI chatbot assistance and live location-based donation tracking** to connect donors with people in need.
+
+**🚧 NIYANTRAK — Smart Barricade System**  
+IoT-based solution developed for **Smart India Hackathon**, using Arduino, Raspberry Pi, and IoT sensors.
+
+**👁️ Smart Vision Stick**  
+AI-based navigation solution designed to assist visually impaired individuals using intelligent sensing technologies.
 
 ---
 
-## 🤝 Let's Connect
+### 🎓 Education
 
-📧 **Email:** [mahajanhemangi8767@gmail.com](mailto:mahajanhemangi8767@gmail.com)
-
-💼 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/hemangi-mahajan-071816302/)
-
-💻 **LeetCode:** [hemangi_01](https://leetcode.com/u/hemangi_01/)
-
-🐙 **GitHub:** [mahajanhemangi8767-cyber](https://github.com/mahajanhemangi8767-cyber)
+**B.Tech — Information Technology**  
+**K. K. Wagh Institute of Engineering Education & Research, Nashik**  
+**Final Year | B.Tech IT**
 
 ---
 
-## ⚡ A Little About Me
+### 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/hemangi-mahajan-071816302/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/hemangi_01/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="mailto:mahajanhemangi8767@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+### ⚡ A Little About Me
 
 I enjoy **turning ideas into practical solutions, solving challenging problems, learning emerging technologies, and continuously improving my software engineering skills.**
 
 ---
 
-⭐ **If you find my repositories useful, consider giving them a star!**
+<p align="center">
+<b>Building • Learning • Solving • Improving</b>
+</p>
