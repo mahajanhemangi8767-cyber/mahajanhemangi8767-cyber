@@ -56,12 +56,6 @@ Currently focused on strengthening my expertise in **AWS, Docker, Kubernetes, CI
 
 **DevOps:** CI/CD · Docker · Kubernetes · Jenkins · Linux · Bash/Shell Scripting
 
-#### 🤖 AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-**AI/ML:** Scikit-learn · Pandas · MBART · Hugging Face · NLTK · spaCy · Dialogflow · Rasa
-
 #### 🔌 IoT & Hardware
 
 **Arduino Uno · Raspberry Pi · ESP32 · IoT Sensors**
@@ -74,18 +68,6 @@ Currently focused on strengthening my expertise in **AWS, Docker, Kubernetes, CI
 
 ---
 
-### 🎯 Currently Learning
-
-☁️ **Cloud Computing & AWS**  
-🐳 **Docker & Containerization**  
-☸️ **Kubernetes**  
-⚙️ **CI/CD & DevOps**  
-🐧 **Linux & Shell Scripting**  
-🧩 **Advanced DSA**  
-🏗️ **System Design**  
-🚀 **Scalable Application Development**
-
----
 
 ### 💡 Featured Projects
 
